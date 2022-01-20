@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
     <?php
+    //belum jalan
+    include("koneksi.php");
+    //konek.belum jalan
     include("konten/head.html");
     ?>
 </head>
