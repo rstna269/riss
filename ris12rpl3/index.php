@@ -10,9 +10,10 @@
         <?php
         include("konten/judul.html");
         include("konten/nav.php");
-        ?>
 
+        include("atur-konten.php");
+        ?>
     </div>
-    
+
 </body>
 </html>
